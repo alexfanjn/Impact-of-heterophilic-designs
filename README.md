@@ -16,15 +16,14 @@ The relevant codes for "**What Contributes More to the Robustness of Heterophili
   - **examples/attack/targeted**: Main demo folder
 
     - for_real_gnn_evaluate.py: main codes for conducting attacks on realistic GNNs, such as H2GCN and UGCN.
-  - sim_heterophilic_attack.py: main codes for conducting attacks on baseline GCN models integrating with different heterophilic designs. 
-  
-- **graphwar/heter_gnn**: Main algorithm folder
-  
-  - basic_gcn.py
+    - sim_heterophilic_attack.py: main codes for conducting attacks on baseline GCN models integrating with different heterophilic designs. 
+    
+  - **graphwar/heter_gnn**: Main algorithm folder
+    - basic_gcn.py
     - h2gcn.py
-  - ugcn.py
-  
-- **heterophily_dataseets_matlab**: Folder of the corresponding heterophilic graph data.
+    - ugcn.py
+    
+  - **heterophily_dataseets_matlab**: Folder of the corresponding heterophilic graph data.
   
   
   
