@@ -46,7 +46,7 @@ The relevant codes for "**What Contributes More to the Robustness of Heterophili
   ```
    @article{fang2025what,
       title={What Contributes More to the Robustness of Heterophilic Graph Neural Networks?},
-      author={Fang, Junyuan and Ynag, Han and Wu, Jiajing and Zheng, Zibin and Tse, Chi K},
+      author={Fang, Junyuan and Yang, Han and Wu, Jiajing and Zheng, Zibin and Tse, Chi K},
       journal={IEEE Transactions on Systems, Man, and Cybernetics: Systems},
       year={2025},
       publisher={IEEE}
