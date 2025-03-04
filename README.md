@@ -1,6 +1,6 @@
 ## Impact-of-heterophilic-designs
 
-The relevant codes for "**What Contributes More to the Robustness of Heterophilic Graph Neural Networks?**", [*Under Review*].
+The relevant codes for "**What Contributes More to the Robustness of Heterophilic Graph Neural Networks?**", [*IEEE TSMC*].
 
 
 
